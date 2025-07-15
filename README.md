@@ -3,6 +3,9 @@
 
 This repository provides exploratory data analysis and descriptive statistics for three datasets related to the 2024 U.S. Presidential Election:
 
+https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/f27b6ce7-a26c-448c-afae-c83e3d2f8e2e" />
+
+
 1. `2024_fb_posts_president_scored_anon.csv` — Facebook posts
 2. `2024_fb_ads_president_scored_anon.csv` — Facebook ads
 3. `2024_tw_posts_president_scored_anon.csv` — Twitter posts
