@@ -72,19 +72,16 @@ The Jupyter Notebooks include:
 
 ```
 ├── FB_ADS_PRESIDENT_SCORED_ANON/
-│ ├── 2024_fb_ads_president_scored_anon.csv
 │ ├── pandas_stats.py
 │ ├── polars_stats.py
 │ ├── pure_python_stats.py
 │ └── bonus_visualization.ipynb
 ├── FB_POSTS_PRESIDENT_SCORED_ANON/
-│ ├── 2024_fb_posts_president_scored_anon.csv
 │ ├── pandas_stats.py
 │ ├── polars_stats.py
 │ ├── pure_python_stats.py
 │ └── bonus_visualization.ipynb
 ├── TWITTER_POSTS_PRESIDENT_SCORED_ANON/
-│ ├── 2024_tw_posts_president_scored_anon.csv
 │ ├── pandas_stats.py
 │ ├── polars_stats.py
 │ ├── pure_python_stats.py
