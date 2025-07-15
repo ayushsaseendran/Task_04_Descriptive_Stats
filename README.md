@@ -71,18 +71,24 @@ The Jupyter Notebooks include:
 ## File Structure
 
 ```
-├── data/
-│   ├── 2024_fb_posts_president_scored_anon.csv
-│   ├── 2024_fb_ads_president_scored_anon.csv
-│   ├── 2024_tw_posts_president_scored_anon.csv
-├── scripts/
-│   ├── pure_python_analysis.py
-│   ├── pandas_analysis.py
-│   ├── polars_analysis.py
-├── notebooks/
-│   ├── fb_posts_eda.ipynb
-│   ├── fb_ads_eda.ipynb
-│   ├── twitter_posts_eda.ipynb
+├── FB_ADS_PRESIDENT_SCORED_ANON/
+│ ├── 2024_fb_ads_president_scored_anon.csv
+│ ├── pandas_stats.py
+│ ├── polars_stats.py
+│ ├── pure_python_stats.py
+│ └── bonus_visualization.ipynb
+├── FB_POSTS_PRESIDENT_SCORED_ANON/
+│ ├── 2024_fb_posts_president_scored_anon.csv
+│ ├── pandas_stats.py
+│ ├── polars_stats.py
+│ ├── pure_python_stats.py
+│ └── bonus_visualization.ipynb
+├── TWITTER_POSTS_PRESIDENT_SCORED_ANON/
+│ ├── 2024_tw_posts_president_scored_anon.csv
+│ ├── pandas_stats.py
+│ ├── polars_stats.py
+│ ├── pure_python_stats.py
+│ └── bonus_visualization.ipynb
 └── README.md
 ```
 
